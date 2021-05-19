@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-redis-caching-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node ./main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Phaicom/nodejs-redis-caching-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Phaicom/nodejs-redis-caching-example/issues"
+  },
+  "homepage": "https://github.com/Phaicom/nodejs-redis-caching-example#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^9.0.2",
+    "express": "^4.17.1",
+    "redis": "^3.1.2"
+  }
+}
